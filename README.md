@@ -31,12 +31,13 @@ Atualmente estou focado em aprender **Java do zero ao avançado**, desenvolvendo
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGaliazzo&show_icons=true&hide_title=true&count_private=true&theme=dark" />
+  <img src="https://stats-github.vercel.app/api?username=GuilhermeGaliazzo&show_icons=true&count_private=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGaliazzo&layout=compact&theme=dark" />
+  <img src="https://stats-github.vercel.app/api/top-langs?username=GuilhermeGaliazzo&layout=compact&theme=github_dark" />
 </p>
+
 
 
 ---
