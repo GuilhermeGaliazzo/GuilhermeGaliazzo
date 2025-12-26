@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Guilherme%20Galiazzo&fontSize=40&fontColor=ffffff" />
+</p>
+---
+
 # 👋 Olá, eu sou Guilherme Rodrigues!
 
 🎯 **Objetivo:** Me tornar um desenvolvedor profissional e construir projetos reais  
