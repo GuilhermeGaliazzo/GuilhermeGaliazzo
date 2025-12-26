@@ -1,6 +1,6 @@
 ## Olá👋
 
-Sou Guilherme Galiazzo, estudante de Engenharia de Software, com grande interesse em ingressar na área de desenvolvimento. Atualmente, estou estudando a linguagem Java e, futuramente, pretendo aprofundar meus conhecimentos em Python.
+Sou Guilherme Galiazzo, estudante de Engenharia de Software e tenho grande interesse em ingressar na área de desenvolvimento. Atualmente, estou estudando a linguagem Java e, futuramente, pretendo aprofundar meus conhecimentos em Python.
 
 ## About Me
 
