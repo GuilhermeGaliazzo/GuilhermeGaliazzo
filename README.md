@@ -32,7 +32,7 @@ Atualmente estou focado em aprender **Java do zero ao avançado**, desenvolvendo
 ## 🌐 Contato
 
 📫 **Email:** guilhermemassari.rodrigues@email.com  
-💼 **LinkedIn:** [https://linkedin.com/in/seuperfil  ](https://www.linkedin.com/in/guilherme-galiazzo-bb3946233/)
+💼 **LinkedIn:**  https://www.linkedin.com/in/guilherme-galiazzo-bb3946233/
 
 ---
 
