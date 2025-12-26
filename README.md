@@ -1,50 +1,21 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Guilherme Galiazzo
+===========================================================================================================================================
 
-###
+Desenvolvedor Back-End
+----------------------
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=radical"  />
-</div>
+Tenho 20 anos, resido no interior de São Paulo, Brasil, e atualmente curso Engenharia de Software na Unicesumar. Possuo grande interesse pela área de programação, com afinidade especial pela linguagem Java. Além da formação acadêmica, dedico-me aos estudos de forma paralela e contínua.
 
-###
+Encontro-me em busca da minha primeira oportunidade profissional na área de tecnologia. Independentemente da linguagem utilizada pela empresa, estou totalmente disposto a aprender a tecnologia necessária, empenhando-me ao máximo para evoluir e contribuir com a equipe e com os objetivos da organização.
 
-<h1 align="left">Guilherme Galiazzo</h1>
+* 🌍  Eu moro em São Paulo, Brasil
+* ✉️  Email de contato: [guilhermemassari.rodrigues@gmail.com](mailto:guilhermemassari.rodrigues@gmail.com)
+* 🧠  Atualmente estudando Java
 
-###
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
+</p>
 
-<h2 align="left">Sou Guilherme Galiazzo, estudante de Engenharia de Software e tenho grande interesse em ingressar na área de desenvolvimento.</h2>
+### Socials
 
-###
-
-<h3 align="left">Tenho 20 anos, resido no interior de São Paulo, Brasil, e atualmente curso Engenharia de Software na Unicesumar. Possuo grande interesse pela área de programação, com afinidade especial pela linguagem Java. Além da formação acadêmica, dedico-me aos estudos de forma paralela e contínua.<br><br>Encontro-me em busca da minha primeira oportunidade profissional na área de tecnologia. Independentemente da linguagem utilizada pela empresa, estou totalmente disposto a aprender a tecnologia necessária, empenhando-me ao máximo para evoluir e contribuir com a equipe e com os objetivos da organização.</h3>
-
-###
-
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/GuilhermeGaliazzo/GuilhermeGaliazzo/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=radical"  />
-</div>
-
-###
+<p align="left"> <a href="https://www.linkedin.com/in/guilherme-galiazzo-bb3946233/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/eomazzo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
