@@ -26,19 +26,6 @@ Atualmente estou focado em aprender **Java do zero ao avançado**, desenvolvendo
   <img align="center" alt="IntelliJ" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 </div>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://stats-github.vercel.app/api?username=GuilhermeGaliazzo&show_icons=true&count_private=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://stats-github.vercel.app/api/top-langs?username=GuilhermeGaliazzo&layout=compact&theme=github_dark" />
-</p>
-
-
 
 ---
 
