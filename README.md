@@ -17,7 +17,7 @@
 
 # 👋 Olá, Bem vindo(a)!
 🎯 **Objetivo:** Me tornar um desenvolvedor profissional e construir projetos reais  
-💻 Estudando: **Java | Programação Orientada a Objetos | Git & GitHub**  
+💻 Estudando: **Spring Boot e Git**  
 🚀 Buscando evolução constante e novas oportunidades  
 
 
@@ -27,7 +27,7 @@ Sou um entusiasta de tecnologia apaixonado por programação e criação de proj
 Atualmente estou focado em aprender **Java do zero ao avançado**, desenvolvendo sistemas próprios e consolidando minha base em **POO, algoritmos e lógica**.
 
 - 🔭 Trabalhando em projetos pessoais  
-- 🌱 Aprendendo Java, POO e versionamento com Git  
+- 🌱 Aprendendo Spring Boot e versionamento com Git  
 - 🧩 Interesses: Desenvolvimento de sistema, automação e tecnologia  
 
 
