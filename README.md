@@ -17,17 +17,16 @@
 
 # 👋 Olá, Bem vindo(a)!
 🎯 **Objetivo:** Me tornar um desenvolvedor profissional e construir projetos reais  
-💻 Estudando: **Spring Boot e Git**  
+💻 Estudando: **Python**  
 🚀 Buscando evolução constante e novas oportunidades  
 
 
 
 ## 🧠 Sobre mim
 Sou um entusiasta de tecnologia apaixonado por programação e criação de projetos.  
-Atualmente estou focado em aprender **Java do zero ao avançado**, desenvolvendo sistemas próprios e consolidando minha base em **POO, algoritmos e lógica**.
 
 - 🔭 Trabalhando em projetos pessoais  
-- 🌱 Aprendendo Spring Boot e versionamento com Git  
+- 🌱 Aprendendo Python  
 - 🧩 Interesses: Desenvolvimento de sistema, automação e tecnologia  
 
 
