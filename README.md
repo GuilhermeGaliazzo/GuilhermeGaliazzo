@@ -17,7 +17,7 @@
 
 # 👋 Olá, Bem vindo(a)!
 🎯 **Objetivo:** Me tornar um desenvolvedor profissional e construir projetos reais  
-💻 Estudando: **Python**  
+💻 Estudando: **Java**  
 🚀 Buscando evolução constante e novas oportunidades  
 
 
@@ -26,7 +26,7 @@
 Sou um entusiasta de tecnologia apaixonado por programação e criação de projetos.  
 
 - 🔭 Trabalhando em projetos pessoais  
-- 🌱 Aprendendo Python  
+- 🌱 Aprendendo frameworks do java 
 - 🧩 Interesses: Desenvolvimento de sistema, automação e tecnologia  
 
 
