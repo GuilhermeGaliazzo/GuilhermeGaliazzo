@@ -15,20 +15,12 @@
 
 
 # 👋 Olá, Bem vindo(a)!
-🎯 **Objetivo:** Me tornar um desenvolvedor profissional e construir projetos reais  
+🎯 **Objetivo atual:** Conseguir minha primeira vaga na área de TI. 
 💻 Estudando: **Java**  
 🚀 Buscando evolução constante e novas oportunidades  
 
-
-
 ## 🧠 Sobre mim
-Sou um entusiasta de tecnologia apaixonado por programação e criação de projetos.  
-
-- 🔭 Trabalhando em projetos pessoais  
-- 🌱 Aprendendo frameworks do java 
-- 🧩 Interesses: Desenvolvimento de sistema, automação e tecnologia  
-
-
+Olá! Sou Guilherme, estudante de Engenharia de Software na Cruzeiro do Sul e desenvolvedor back-end em formação, com foco em Java. Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvimento de sistemas. No futuro, pretendo estudar front-end e testes de software para me tornar um profissional mais completo.
 
 ## 🛠️ Tecnologias & Ferramentas
 
