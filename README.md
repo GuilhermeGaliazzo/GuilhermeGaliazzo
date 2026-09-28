@@ -9,10 +9,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://github.com/GuilhermeGaliazzo/GuilhermeGaliazzo/blob/main/python_badge_pequena.png" width="120" />
-  <img src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </p>
 
 
