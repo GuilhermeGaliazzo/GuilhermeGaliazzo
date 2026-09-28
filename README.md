@@ -16,7 +16,7 @@
 
 # 👋 Olá, Bem vindo(a)!
 🎯 **Objetivo atual:** Conseguir minha primeira vaga na área de TI. 
-💻 Estudando: **Java**  
+💻 Estudando: **python**
 🚀 Buscando evolução constante e novas oportunidades  
 
 ## 🧠 Sobre mim
@@ -25,9 +25,10 @@ Olá! Sou Guilherme, estudante de Engenharia de Software na Cruzeiro do Sul e de
 ## 🛠️ Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="IntelliJ" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+  <img align="center" alt="Java logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Python logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Git logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="IntelliJ logo" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 </div>
 
 
