@@ -3,15 +3,8 @@
 </p>
 
 <h2 align="center" style="color:#8B5CF6;">
-  Desenvolvedor Back-End
+  Desenvolvedor
 </h2>
-
-
-
-<p align="center">
-  <img src="https://github.com/GuilhermeGaliazzo/GuilhermeGaliazzo/blob/main/python_badge_pequena.png" width="120" />
-</p>
-
 
 
 # 👋 Olá, Bem vindo(a)!
