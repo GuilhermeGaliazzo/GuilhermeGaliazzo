@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Guilherme%20Galiazzo&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h2 align="center" style="color:#8B5CF6;">
-  Desenvolvedor
-</h2>
-
-
 # 👋 Olá, Bem vindo(a)!
 🎯 **Objetivo atual:** Conseguir minha primeira vaga na área de TI. 
 💻 Estudando: **python**
