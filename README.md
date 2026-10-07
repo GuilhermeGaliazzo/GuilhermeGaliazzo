@@ -25,7 +25,7 @@ Olá! Sou Guilherme, estudante de Engenharia de Software na Cruzeiro do Sul e de
 
 ## 🌐 Contato
 
-📫 **Email:** guilhermemassari.rodrigues@gmail.com  
+📫 **Email:** guilhermegaliazzo.dev@outlook.com 
 💼 **LinkedIn:**  https://www.linkedin.com/in/guilherme-galiazzo-bb3946233/
 
 
