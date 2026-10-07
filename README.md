@@ -31,4 +31,3 @@ Olá! Sou Guilherme, estudante de Engenharia de Software na Cruzeiro do Sul e de
 
 
 
-> _"Todo programador foi um iniciante que decidiu não desistir."_ 
