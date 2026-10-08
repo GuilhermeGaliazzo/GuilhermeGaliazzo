@@ -21,13 +21,11 @@ Olá! Sou Guilherme, estudante de Engenharia de Software na Cruzeiro do Sul e de
 </div>
 
 
-
-
-
 ## 🌐 Contato
 
-📫 **Email:** guilhermegaliazzo.dev@outlook.com 
-💼 **LinkedIn:**  https://www.linkedin.com/in/guilherme-galiazzo-bb3946233/
+<p>📫 **Email:** guilhermegaliazzo.dev@outlook.com </p>
+<p>**LinkedIn:**  https://www.linkedin.com/in/guilherme-galiazzo-bb3946233</p>
+
 
 
 
