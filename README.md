@@ -3,9 +3,10 @@
 </p>
 
 # 👋 Olá, Bem vindo(a)!
-🎯 **Objetivo atual:** Conseguir minha primeira vaga na área de TI. 
-💻 Estudando: **Spring**
-🚀 Buscando evolução constante e novas oportunidades  
+
+<p>🎯 **Objetivo atual:** Conseguir minha primeira vaga na área de TI.</p>
+<p>💻 Estudando: **Spring**</p>
+<p>🚀 Buscando evolução constante e novas oportunidades</p>
 
 ## 🧠 Sobre mim
 Olá! Sou Guilherme, estudante de Engenharia de Software na Cruzeiro do Sul e desenvolvedor back-end em formação, com foco em Java. Atualmente, estou aprimorando meus conhecimentos em programação e desenvolvimento de sistemas. No futuro, pretendo estudar front-end e testes de software para me tornar um profissional mais completo.
