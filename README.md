@@ -4,7 +4,7 @@
 
 # 👋 Olá, Bem vindo(a)!
 🎯 **Objetivo atual:** Conseguir minha primeira vaga na área de TI. 
-💻 Estudando: **python**
+💻 Estudando: **Spring**
 🚀 Buscando evolução constante e novas oportunidades  
 
 ## 🧠 Sobre mim
